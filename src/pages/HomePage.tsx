@@ -104,7 +104,7 @@ export default function HomePage() {
         >
           <div>
             <h1 className="text-2xl font-bold text-white">
-              Emergency Response
+              HarakaHelp
             </h1>
             <p className="text-slate-400 text-sm mt-1">
               {formatDate(currentTime)} • {formatTime(currentTime)}
